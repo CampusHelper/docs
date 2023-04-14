@@ -26,7 +26,7 @@ export default hopeTheme({
       navbar: enNavbar,
       // sidebar
       sidebar: enSidebar,
-      footer: "Default footer",
+      footer: "Welcome to CampusHelper",
       displayFooter: true,
       metaLocales: {
         editLink: "Edit this page on GitHub",
@@ -56,20 +56,30 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/en/demo/encrypt.html": ["1234"],
-      "/demo/encrypt.html": ["1234"],
+      // "/thesis/": ["1050314133"],
     },
   },
 
   plugins: {
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
-      provider: "Giscus",
-      repo: "CampusHelper/docs",
-      repoId: "R_kgDOJRY5SA",
-      category: "General",
-      categoryId: "DIC_kwDOJRY5SM4CVwvz",
-      inputPosition: "top",
+      // provider: "Giscus",
+      // repo: "CampusHelper/docs",
+      // repoId: "R_kgDOJRY5SA",
+      // category: "General",
+      // categoryId: "DIC_kwDOJRY5SM4CVwvz",
+      // inputPosition: "top",
+
+      provider: "Waline",
+      serverURL: "https://campus-helper-waline.vercel.app/",
+      search: false,
+      reaction: true,
+      emoji: [
+        "https://unpkg.com/@waline/emojis@1.1.0/tieba",
+        "https://unpkg.com/@waline/emojis@1.1.0/qq",
+        "https://unpkg.com/@waline/emojis@1.1.0/alus",
+        "https://unpkg.com/@waline/emojis@1.1.0/bilibili",
+        "https://unpkg.com/@waline/emojis@1.1.0/bmoji",
+      ],
     },
 
     // all features are enabled for demo, only preserve features you need here
