@@ -17,6 +17,7 @@ export default hopeTheme({
   logo: "/logo.svg",
 
   repo: "CampusHelper",
+  docsBranch: "master",
   docsRepo: "CampusHelper/docs",
   docsDir: "src",
 
