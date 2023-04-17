@@ -22,6 +22,17 @@ export const zhSidebar = sidebar({
       ],
     },
     {
+      text: "用户登录模块",
+      icon: "profile",
+      prefix: "oauth2/",
+      children: [
+        {
+          text: "介绍",
+          link: "README.md",
+        },
+      ],
+    },
+    {
       text: "论文",
       icon: "note",
       prefix: "thesis/",

@@ -26,19 +26,10 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 
 ## 使用了哪些技术栈？
 
-![客户端技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,ts,flutter,dart,vercel,nodejs&theme=light#light)
-![客户端技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,ts,flutter,dart,vercel,nodejs&theme=dark#dark)
+![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=light&perline=10#light)
+![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=dark&perline=10#dark)
 
-![服务端技术栈](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,kafka&theme=light#light)
-![服务端技术栈](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,kafka&theme=dark#dark)
-
-![运维技术栈](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,prometheus,grafana,linux&theme=light#light)
-![运维技术栈](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,prometheus,grafana,linux&theme=dark#dark)
-
-![开发工具](https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman,md&theme=light#light)
-![开发工具](https://skillicons.dev/icons?i=idea,vscode,androidstudio,postman,md&theme=dark#dark) 
-
-- [客户端技术栈](https://campushelper.akagiyui.com)
+- [客户端](https://campushelper.akagiyui.com)技术栈
   - [x] [Vue.js 3](https://cn.vuejs.org/)，前端框架
   - [x] [Vite 4](https://cn.vitejs.dev/)，前端构建工具
   - [x] [pnpm](https://pnpm.io/zh/)，包管理工具
@@ -59,6 +50,7 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
   - [ ] [MyBatis](https://mybatis.org/mybatis-3/)，ORM 框架
     - [MyBatis Plus](https://mybatis.plus/)，MyBatis 的增强框架
     - 考虑使用 [JPA](https://spring.io/projects/spring-data-jpa) 代替
+  - [x] [Gradle](https://gradle.org/)，Java 构建工具
   - [x] [PostgreSQL](https://www.postgresql.org/)，关系型数据库，[JDBC驱动](https://jdbc.postgresql.org/)
   - [ ] [MongoDB](https://www.mongodb.com/)，非关系型数据库
   - [ ] [Redis](https://redis.io/)，缓存数据库
@@ -84,7 +76,7 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 ## 有什么功能？
 
 - [ ] 商城系统，是不是很常见？
-- [ ] 图书管理系统，怎么又是这种。。
+- [ ] 图书管理系统，怎么又是烂大街。。
 - [ ] 课程管理系统，融合学习通（不是
 - [ ] 网盘系统
 - [ ] 即时通讯系统
