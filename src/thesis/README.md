@@ -1,7 +1,7 @@
 ---
 title: 校园助手系统的设计与实现
 index: false
-icon: note
+icon: tag
 ---
 
 # 校园助手系统的设计与实现

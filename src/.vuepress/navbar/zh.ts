@@ -9,7 +9,7 @@ export const zhNavbar = navbar([
   },
   {
     text: "论文",
-    icon: "article",
+    icon: "study",
     link: "/thesis/",
   },
   {
