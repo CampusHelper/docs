@@ -57,27 +57,27 @@ export const zhSidebar = sidebar({
           icon: "info",
         },
         {
-          text: "系统开发环境及相关技术介绍",
+          text: "开发环境",
           link: "technology",
           icon: "computer",
         },
         {
-          text: "系统需求分析",
+          text: "需求分析",
           link: "demand",
           icon: "ask",
         },
         {
-          text: "系统概要设计",
+          text: "概要设计",
           link: "design",
           icon: "software",
         },
         {
-          text: "系统详细设计与实现",
+          text: "详细设计与实现",
           link: "detail",
           icon: "code",
         },
         {
-          text: "系统测试与评价",
+          text: "测试与评价",
           link: "test",
           icon: "boolean",
         },
