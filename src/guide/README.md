@@ -44,7 +44,7 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
   - [x] [CDN](https://www.huaweicloud.com/product/cdn.html)，内容分发网络
 
 - 服务端技术栈
-  - [ ] [SpringBoot](https://spring.io/projects/spring-boot)，Java Web 框架
+  - [x] [SpringBoot](https://spring.io/projects/spring-boot)，Java Web 框架
   - [ ] [SpringSecurity](https://spring.io/projects/spring-security)，安全框架
   - [ ] [SpringCloud](https://spring.io/projects/spring-cloud)，微服务框架
   - [ ] [MyBatis](https://mybatis.org/mybatis-3/)，ORM 框架
@@ -84,7 +84,7 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 
 其实就是个缝合怪。
 
-## 感谢
+## 鸣谢
 
 ### 开源项目
 
@@ -99,7 +99,9 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 
 ### 对开发者友好的服务
 
+- [owocloud: 萌凛云](https://owocloud.net)
 - [JetBrains: 开发工具](https://www.jetbrains.com/)
 - [GitHub: 代码托管](https://github.com)
 - [Vercel: 前端自动构建与部署平台](https://vercel.com)
 - [LeanCloud: 云服务](https://leancloud.cn)
+- [algolia: 文档索引](https://www.algolia.com)
