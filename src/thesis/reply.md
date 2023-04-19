@@ -10,15 +10,19 @@ layout: Slide
 
 <!-- .slide: data-transition="slide" -->
 
-## 幻灯片演示
+## 校园助手
 
 <!-- .element: class="r-fit-text" -->
 
-一个简单的幻灯片演示与各种小贴士。
+全方位强化你的校园生活体验。
 
 <!-- .element: class="r-fit-text" -->
 
-> 作者 Mr.Hope. 请滚动鼠标滚轮进入下一页
+> 作者 AkagiYui
+
+---
+
+<img src="/graph/test.svg" />
 
 ---
 
@@ -31,6 +35,8 @@ layout: Slide
 --
 
 ## 标注幻灯片
+
+<video controls style="width: 100%" data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" />
 
 <!-- .element: class="r-fit-text" -->
 

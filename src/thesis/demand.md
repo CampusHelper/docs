@@ -5,6 +5,8 @@ icon: ask
 
 ## 系统业务概述
 
+<HopeIcon icon="/graph/test.svg" size="4rem" />
+
 ## 系统用例需求分析
 
 ## 系统功能需求分析

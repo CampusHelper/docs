@@ -6,11 +6,11 @@ heroImage: /logo.svg
 heroText: CampusHelper
 tagline: 全方位强化你的校园生活体验。
 actions:
-  - text: 立即体验 💡
+  - text: 💡 立即体验
     link: https://campushelper.akagiyui.com
     type: primary
 
-  - text: 浏览文档 📚
+  - text: "📚 阅读文档"
     link: /guide/
 
 features:

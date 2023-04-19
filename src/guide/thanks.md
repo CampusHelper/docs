@@ -16,7 +16,7 @@ icon: flower
 
 ## 对开发者友好的服务
 
-- [owocloud: 萌凛云](https://owocloud.net)
+- [OwOCloud: 萌凛云](https://owocloud.net)
 - [JetBrains: 开发工具](https://www.jetbrains.com/)
 - [GitHub: 代码托管](https://github.com)
 - [Vercel: 前端自动构建与部署平台](https://vercel.com)

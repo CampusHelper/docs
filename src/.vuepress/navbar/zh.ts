@@ -13,7 +13,12 @@ export const zhNavbar = navbar([
     link: "/thesis/",
   },
   {
-    text: "在线体验",
+    text: "作者博客",
+    icon: "advance",
+    link: "https://akagiyui.com",
+  },
+  {
+    text: "立即体验",
     icon: "hot",
     link: "https://campushelper.akagiyui.com",
   },
