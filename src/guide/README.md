@@ -37,6 +37,9 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 
 ## 使用了哪些技术栈？
 
+![总览](https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&titleAlign=center&showBorder=false&lineHeight=8&lineCount=7&gap=7&hideBg=true&hideTitle=true&line1=vuedotjs,Vue.js,4FC08D;vite,vite,646CFF;pnpm,pnpm,F69220;css3,css3,1572B6;typescript,typescript,3178C6;flutter,flutter,02569B;&line2=vercel,vercel,000000;chartdotjs,chart.js,FF6384;git,git,F05032;github,github,181717;javascript,javascript,F7DF1E;githubactions,actions,2088FF;&line3=harbor,harbor,60B932;mongodb,mongodb,47A248;redis,redis,DC382D;drone,drone,212121;apachekafka,kafka,231F20;&line4=spring,spring,6DB33F;springboot,springboot,6DB33F;springsecurity,springsecurity,6DB33F;gradle,gradle,02303A;&line5=prometheus,prometheus,E6522C;dotenv,dotenv,ECD53F;postgresql,postgresql,4169E1;podman,podman,892CA0;&line6=intellijidea,idea,000000;visualstudiocode,vscode,007ACC;apachemaven,maven,C71A36;portainer,portainer,13BEF9;docker,docker,2496ED;&line7=socketdotio,socket.io,010101;kubernetes,kubernetes,326CE5;grafana,grafana,F46800;diagramsdotnet,diagrams.net,F08705;#light)
+![总览](https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&titleAlign=center&showBorder=false&lineHeight=8&lineCount=1&theme=github_dark&hideBg=true&hideTitle=true&line1=express,express,d83426;trello,trello,9f32b0;flutter,flutter,f6fcef;spring,spring,40da49;#dark)
+
 ![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=light&perline=10#light)
 ![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=dark&perline=10#dark)
 
@@ -67,6 +70,7 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
   - [ ] [Redis](https://redis.io/)，缓存数据库
   - [ ] [Kafka](https://kafka.apache.org/)，消息队列
   - [ ] [MinIO](https://min.io/)，对象存储
+  - [ ] [Socket.IO](https://socket.io/)，实时通信
 
 - DevOps，开发运维
   - [x] [Git](https://git-scm.com/)，版本控制

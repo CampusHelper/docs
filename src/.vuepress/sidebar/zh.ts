@@ -32,12 +32,17 @@ export const zhSidebar = sidebar({
     {
       text: "用户登录模块",
       icon: "group",
-      prefix: "oauth2/",
+      prefix: "edge-connect/",
       children: [
         {
-          text: "介绍",
+          text: "边际互联",
           link: "README.md",
           icon: "mount",
+        },
+        {
+          text: "OAuth2",
+          link: "oauth2.md",
+          icon: "command",
         },
       ],
     },

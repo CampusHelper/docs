@@ -9,10 +9,9 @@ icon: mount
 
 项目开源地址：<HopeIcon icon="github" />[EdgeConnect](https://github.com/AkagiYui/EdgeConnect)
 
-这是一个基于 OAuth2 的账号系统，类似于国内的[QQ互联](https://connect.qq.com/)，该系统用于登录我开发的各个项目，例如 `CampusHelper` 。
+这是一个基于 OAuth2 的账号系统，类似于国内的[QQ互联](https://connect.qq.com/)，该系统用于登录我开发的各个项目，例如 [`CampusHelper`](https://campushelper.akagiyui.com) 。
 
 你也可以将你的项目集成到这个系统中，这样你的用户就可以使用这个系统的账号登录你的项目。
 
-## 什么是 `OAuth2.0`
-
-OAuth（开放授权）是一个开放标准，允许用户授权第三方网站访问他们存储在另外的服务提供者上的信息，而不需要将用户名和密码提供给第三方网站或分享他们数据的所有内容。
+你可以使用公共的服务：[edge.akagiyui.com](https://edge.akagiyui.com)，
+也可以自己部署该服务。

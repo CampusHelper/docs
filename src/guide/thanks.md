@@ -12,7 +12,8 @@ icon: flower
 - [Vite: 前端构建工具](https://github.com/vitejs/vite)
 - [Git: 版本控制](https://github.com/git/git)
 - [Postgresql: 关系型数据库](https://github.com/postgres/postgres)
-- [Docker: 容器化](https://github.com/docker)
+- [Docker: 容器化](https://github.com/docker).
+- [github-readme-tech-stack: 技术栈图标](https://github.com/0l1v3rr/github-readme-tech-stack)
 
 ## 对开发者友好的服务
 
@@ -23,7 +24,18 @@ icon: flower
 - [LeanCloud: 云服务](https://leancloud.cn)
 - [algolia: 文档索引](https://www.algolia.com)
 
-## 参考文档
+## 参考资料
 
 - [SpringBoot 使用 beforeBodyWrite 实现统一的接口返回类型](https://blog.csdn.net/qq_37170583/article/details/107470337)
 - [Spring Security在6.0弃用WebSecurityConfigurationAdapter后该如何自定义配置介绍（新旧示例）](https://blog.csdn.net/weixin_59216829/article/details/130098599)
+- [SpringBoot异常捕获与封装处理](https://blog.csdn.net/cloudy_xuwei/article/details/107006948)
+- [SpingBoot之替换容器为Undertow](https://maimai.cn/article/detail?fid=1746459733&efid=aXAMsWIAJcHYquuaqGxYmA)
+- [SpringSecurity框架教程-Spring Security+JWT实现项目级前端分离认证授权-B站最通俗易懂的Spring Security课程](https://www.bilibili.com/video/BV1mm4y1X7Hc)
+- [Spring Boot 使用 .env 文件实现【隐私信息配置】](https://blog.csdn.net/m0_46261993/article/details/126224829)
+- [@ResponseStatus注解](https://blog.csdn.net/jumpe_17/article/details/118196644)
+- [Spring Boot - 数据校验](@ResponseStatus注解)
+- [mybatis-plus实现自动填充数据如:数据库中createTime和updateTime](https://blog.csdn.net/qq_42400763/article/details/107532272)
+- [MyBatis-Plus java.lang.IllegalArgumentException:argument type mismatch问题解决](https://blog.csdn.net/qq_38974638/article/details/120941677)
+- [Data truncation: Out of range value for column ‘id‘ at row 1](https://blog.csdn.net/m0_56265851/article/details/126029781)
+- [SpringBoot结果集包装类](https://blog.csdn.net/niulinbiao/article/details/120095584)
+- 
