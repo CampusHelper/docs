@@ -14,11 +14,15 @@ layout: Slide
 
 <!-- .element: class="r-fit-text" -->
 
+CampusHelper
+
 全方位强化你的校园生活体验。
 
 <!-- .element: class="r-fit-text" -->
 
 > 作者 AkagiYui
+> 
+> akagiyui.com
 
 ---
 
