@@ -43,4 +43,4 @@ icon: flower
 - [【springboot】springboot发送email(文本/html格式)邮件](https://www.cnblogs.com/erlou96/p/16878192.html)
 - [@PreAuthorize(permitAll) still requires authentication](https://stackoverflow.com/questions/33541678/preauthorizepermitall-still-requires-authentication)
 - [Spring Security blocks anonymous requests even with @PreAuthorize("permitAll()")](https://stackoverflow.com/questions/38521754/spring-security-blocks-anonymous-requests-even-with-preauthorizepermitall)
-- 
+- [SpringBoot 中使用Guava实现单机令牌桶限流](https://juejin.cn/post/7220971733066612793)

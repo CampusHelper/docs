@@ -3,14 +3,19 @@ import { sidebar } from "vuepress-theme-hope";
 export const zhSidebar = sidebar({
   "/": [
     {
-      text: "文档",
+      text: "概述",
       icon: "repo",
-      prefix: "guide/",
+      prefix: "overview/",
       children: [
         {
           text: "介绍",
-          link: "README.md",
+          link: "introduce",
           icon: "creative",
+        },
+        {
+          text: "Roadmap",
+          link: "roadmap",
+          icon: "context",
         },
         {
           text: "开发环境",
@@ -30,20 +35,15 @@ export const zhSidebar = sidebar({
       ],
     },
     {
-      text: "用户登录模块",
-      icon: "group",
-      prefix: "edge-connect/",
+      text: "服务架构",
+      icon: "class",
+      prefix: "service/",
       children: [
         {
-          text: "边际互联",
-          link: "README.md",
-          icon: "mount",
-        },
-        {
-          text: "OAuth2",
-          link: "oauth2.md",
-          icon: "command",
-        },
+          text: "流量网关",
+          link: "gateway",
+          icon: "guide",
+        }
       ],
     },
     {
@@ -95,6 +95,23 @@ export const zhSidebar = sidebar({
           text: "答辩演示",
           link: "reply",
           icon: "slides",
+        },
+      ],
+    },
+    {
+      text: "边际互联",
+      icon: "mount",
+      prefix: "edge-connect/",
+      children: [
+        {
+          text: "简介",
+          link: "README.md",
+          icon: "group",
+        },
+        {
+          text: "OAuth2",
+          link: "oauth2.md",
+          icon: "command",
         },
       ],
     },

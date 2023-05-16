@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "文档",
     icon: "repo",
-    link: "/guide/",
+    link: "/overview/introduce",
   },
   {
     text: "论文",
