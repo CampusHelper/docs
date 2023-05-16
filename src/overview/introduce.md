@@ -34,9 +34,6 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 
 ## 使用了哪些技术栈？
 
-![总览](https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&titleAlign=center&showBorder=false&lineHeight=8&lineCount=7&gap=7&hideBg=true&hideTitle=true&line1=vuedotjs,Vue.js,4FC08D;vite,vite,646CFF;pnpm,pnpm,F69220;css3,css3,1572B6;typescript,typescript,3178C6;flutter,flutter,02569B;&line2=vercel,vercel,000000;chartdotjs,chart.js,FF6384;git,git,F05032;github,github,181717;javascript,javascript,F7DF1E;githubactions,actions,2088FF;&line3=harbor,harbor,60B932;mongodb,mongodb,47A248;redis,redis,DC382D;drone,drone,212121;apachekafka,kafka,231F20;&line4=spring,spring,6DB33F;springboot,springboot,6DB33F;springsecurity,springsecurity,6DB33F;gradle,gradle,02303A;&line5=prometheus,prometheus,E6522C;dotenv,dotenv,ECD53F;postgresql,postgresql,4169E1;podman,podman,892CA0;&line6=intellijidea,idea,000000;visualstudiocode,vscode,007ACC;apachemaven,maven,C71A36;portainer,portainer,13BEF9;docker,docker,2496ED;&line7=socketdotio,socket.io,010101;kubernetes,kubernetes,326CE5;grafana,grafana,F46800;diagramsdotnet,diagrams.net,F08705;#light)
-![总览](https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&titleAlign=center&showBorder=false&lineHeight=8&lineCount=1&theme=github_dark&hideBg=true&hideTitle=true&line1=express,express,d83426;trello,trello,9f32b0;flutter,flutter,f6fcef;spring,spring,40da49;#dark)
-
 ![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=light&perline=10#light)
 ![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=dark&perline=10#dark)
 
@@ -56,15 +53,15 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 
 - 服务端技术栈
   - [x] [SpringBoot](https://spring.io/projects/spring-boot)，Java Web 框架
-  - [ ] [SpringSecurity](https://spring.io/projects/spring-security)，安全框架
-  - [ ] [SpringCloud](https://spring.io/projects/spring-cloud)，微服务框架
-  - [ ] [MyBatis](https://mybatis.org/mybatis-3/)，ORM 框架
+  - [x] [SpringSecurity](https://spring.io/projects/spring-security)，安全框架
+  - [x] [SpringCloud](https://spring.io/projects/spring-cloud)，微服务框架
+  - [ ] [JPA](https://spring.io/projects/spring-data-jpa)
+  - [x] [MyBatis](https://mybatis.org/mybatis-3/)，ORM 框架
     - [MyBatis Plus](https://mybatis.plus/)，MyBatis 的增强框架
-    - 考虑使用 [JPA](https://spring.io/projects/spring-data-jpa) 代替
   - [x] [Gradle](https://gradle.org/)，Java 构建工具
   - [x] [PostgreSQL](https://www.postgresql.org/)，关系型数据库，[JDBC驱动](https://jdbc.postgresql.org/)
   - [ ] [MongoDB](https://www.mongodb.com/)，非关系型数据库
-  - [ ] [Redis](https://redis.io/)，缓存数据库
+  - [x] [Redis](https://redis.io/)，缓存数据库
   - [ ] [Kafka](https://kafka.apache.org/)，消息队列
   - [ ] [MinIO](https://min.io/)，对象存储
   - [ ] [Socket.IO](https://socket.io/)，实时通信
@@ -77,10 +74,6 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
   - [x] [Docker](https://www.docker.com/)，容器化
     - [Portainer](https://www.portainer.io/)，Docker 可视化管理
     - [Harbor](https://goharbor.io/)，Docker 镜像仓库
-    - [Podman](https://podman.io/)，容器引擎（Docker 替代品）
   - [ ] [Kubernetes](https://kubernetes.io/)，容器编排
   - [ ] [Prometheus](https://prometheus.io/)，监控系统
   - [ ] [Grafana](https://grafana.com/)，监控数据可视化
-  - [ ] [Apifox](https://apifox.com/)，API 调试
-
-以上技术栈，应该都会在论文中提及。
