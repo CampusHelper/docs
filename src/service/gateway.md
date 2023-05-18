@@ -1,5 +1,5 @@
 ---
-title: 流量网关
+title: Gateway 流量网关
 icon: guide
 ---
 

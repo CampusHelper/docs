@@ -14,8 +14,8 @@ CampusHelper 是一个由 [AkagiYui](https://akagiyui.com) 制作的**开源的*
 
 ## 有什么功能？
 
-![总览](/graph/overview-light.svg#light)
-![总览](/graph/overview-dark.svg#dark)
+![业务架构图](/graph/overview-light.svg#light)
+![业务架构图](/graph/overview-light.svg#dark)
 
 是个**缝合怪**。
 
@@ -34,8 +34,8 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
 
 ## 使用了哪些技术栈？
 
-![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=light&perline=10#light)
-![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,postgres,mongodb,redis,kafka,git,github,githubactions,docker,kubernetes,prometheus,grafana,linux,idea,vscode,androidstudio,postman,md,gradle&theme=dark&perline=10#dark)
+![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,mysql,postgres,mongodb,redis,rabbitmq,kafka,git,github,gitlab,githubactions,docker,kubernetes,prometheus,grafana,linux,md,gradle&theme=light&perline=10#light)
+![技术栈](https://skillicons.dev/icons?i=vue,vite,html,css,js,ts,flutter,dart,vercel,nodejs,java,spring,mysql,postgres,mongodb,redis,rabbitmq,kafka,git,github,gitlab,githubactions,docker,kubernetes,prometheus,grafana,linux,md,gradle&theme=dark&perline=10#dark)
 
 - [客户端](https://campushelper.akagiyui.com)技术栈
   - [x] [Vue.js 3](https://cn.vuejs.org/)，前端框架
@@ -57,23 +57,26 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
   - [x] [SpringCloud](https://spring.io/projects/spring-cloud)，微服务框架
   - [ ] [JPA](https://spring.io/projects/spring-data-jpa)
   - [x] [MyBatis](https://mybatis.org/mybatis-3/)，ORM 框架
-    - [MyBatis Plus](https://mybatis.plus/)，MyBatis 的增强框架
+    - [x] [MyBatis Plus](https://mybatis.plus/)，MyBatis 的增强框架
   - [x] [Gradle](https://gradle.org/)，Java 构建工具
+  - [x] [MySQL](https://www.mysql.com/)，关系型数据库，[JDBC驱动](https://dev.mysql.com/downloads/connector/j/)
   - [x] [PostgreSQL](https://www.postgresql.org/)，关系型数据库，[JDBC驱动](https://jdbc.postgresql.org/)
   - [ ] [MongoDB](https://www.mongodb.com/)，非关系型数据库
   - [x] [Redis](https://redis.io/)，缓存数据库
+  - [ ] [RabbitMQ](https://www.rabbitmq.com/)，消息队列
   - [ ] [Kafka](https://kafka.apache.org/)，消息队列
   - [ ] [MinIO](https://min.io/)，对象存储
-  - [ ] [Socket.IO](https://socket.io/)，实时通信
+  - [ ] [Socket.IO](https://socket.io/)，即时通信
+  - [ ] [WebSocket](https://zh.wikipedia.org/wiki/WebSocket)，即时通信
 
 - DevOps，开发运维
   - [x] [Git](https://git-scm.com/)，版本控制
   - [ ] [Drone](https://drone.io/)，持续集成
   - [x] [GitHub](https://github.com/)，代码托管
-    - [Gitea](https://gitea.io/)，代码托管(镜像备份)
+  - [x] [GitLab](https://about.gitlab.com/)，代码托管、持续集成
   - [x] [Docker](https://www.docker.com/)，容器化
-    - [Portainer](https://www.portainer.io/)，Docker 可视化管理
-    - [Harbor](https://goharbor.io/)，Docker 镜像仓库
+    - [x] [Portainer](https://www.portainer.io/)，Docker 可视化管理
+  - [ ] [Harbor](https://goharbor.io/)，镜像仓库
   - [ ] [Kubernetes](https://kubernetes.io/)，容器编排
   - [ ] [Prometheus](https://prometheus.io/)，监控系统
   - [ ] [Grafana](https://grafana.com/)，监控数据可视化

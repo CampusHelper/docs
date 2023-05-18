@@ -9,7 +9,7 @@ export const zhSidebar = sidebar({
       children: [
         {
           text: "介绍",
-          link: "introduce",
+          link: "README.md",
           icon: "creative",
         },
         {
@@ -35,15 +35,36 @@ export const zhSidebar = sidebar({
       ],
     },
     {
-      text: "服务架构",
+      text: "服务结构",
       icon: "class",
       prefix: "service/",
+      link: "service/README.md",
       children: [
         {
-          text: "流量网关",
+          text: "Linux 系统",
+          link: "linux",
+          icon: "linux",
+        },
+        {
+          text: "MySQL 数据库",
+          link: "mysql",
+          icon: "mysql",
+        },
+        {
+          text: "Docker 容器引擎",
+          link: "docker",
+          icon: "categoryselected",
+        },
+        {
+          text: "GitLab 代码仓库",
+          link: "gitlab",
+          icon: "gitlab",
+        },
+        {
+          text: "Gateway 流量网关",
           link: "gateway",
           icon: "guide",
-        }
+        },
       ],
     },
     {

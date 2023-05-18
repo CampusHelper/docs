@@ -11,7 +11,7 @@ actions:
     type: primary
 
   - text: "📚 阅读文档"
-    link: /guide/
+    link: /overview/
 
 features:
   - title: "📝 完全开源"
@@ -36,7 +36,7 @@ features:
     details: 采用更新的安全技术，保障你的数据安全。
 
   - title: "🌐 国际化支持"
-    details: 支持多语言，欢迎全球
+    details: 支持多语言，欢迎全球用户使用。
 
 copyright: false
 footer: 欢迎使用 <a href="https://campushelper.akagiyui.com/" target="_blank">CampusHelper</a> | MIT 协议, 版权所有 © 2023 AkagiYui
