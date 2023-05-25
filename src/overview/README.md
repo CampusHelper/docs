@@ -55,19 +55,22 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
   - [x] [SpringBoot](https://spring.io/projects/spring-boot)，Java Web 框架
   - [x] [SpringSecurity](https://spring.io/projects/spring-security)，安全框架
   - [x] [SpringCloud](https://spring.io/projects/spring-cloud)，微服务框架
-  - [ ] [JPA](https://spring.io/projects/spring-data-jpa)
-  - [x] [MyBatis](https://mybatis.org/mybatis-3/)，ORM 框架
-    - [x] [MyBatis Plus](https://mybatis.plus/)，MyBatis 的增强框架
-  - [x] [Gradle](https://gradle.org/)，Java 构建工具
+  - [x] [JPA](https://spring.io/projects/spring-data-jpa)，ORM 框架
+  - [ ] [MyBatis](https://mybatis.org/mybatis-3/)，ORM 框架
+    - [ ] [MyBatis Plus](https://mybatis.plus/)，MyBatis 的增强框架
+  - [x] [Maven](https://maven.apache.org/)，Java 构建工具
+  - [ ] [Gradle](https://gradle.org/)，Java 构建工具
   - [x] [MySQL](https://www.mysql.com/)，关系型数据库，[JDBC驱动](https://dev.mysql.com/downloads/connector/j/)
-  - [x] [PostgreSQL](https://www.postgresql.org/)，关系型数据库，[JDBC驱动](https://jdbc.postgresql.org/)
+  - [ ] [PostgreSQL](https://www.postgresql.org/)，关系型数据库，[JDBC驱动](https://jdbc.postgresql.org/)
   - [ ] [MongoDB](https://www.mongodb.com/)，非关系型数据库
   - [x] [Redis](https://redis.io/)，缓存数据库
-  - [ ] [RabbitMQ](https://www.rabbitmq.com/)，消息队列
+  - [x] [RabbitMQ](https://www.rabbitmq.com/)，消息队列
   - [ ] [Kafka](https://kafka.apache.org/)，消息队列
   - [ ] [MinIO](https://min.io/)，对象存储
   - [ ] [Socket.IO](https://socket.io/)，即时通信
   - [ ] [WebSocket](https://zh.wikipedia.org/wiki/WebSocket)，即时通信
+  - [x] [Nacos](https://nacos.io/zh-cn/)，服务注册与发现
+  - [x] [Dubbo](https://dubbo.apache.org/zh/)，RPC 框架
 
 - DevOps，开发运维
   - [x] [Git](https://git-scm.com/)，版本控制
@@ -80,3 +83,4 @@ AkagiYui 是一位本科大学生，她希望自己可以做一个项目，融�
   - [ ] [Kubernetes](https://kubernetes.io/)，容器编排
   - [ ] [Prometheus](https://prometheus.io/)，监控系统
   - [ ] [Grafana](https://grafana.com/)，监控数据可视化
+  - [x] [SkyWalking](https://skywalking.apache.org/)，分布式追踪系统

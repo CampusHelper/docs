@@ -61,9 +61,24 @@ export const zhSidebar = sidebar({
           icon: "gitlab",
         },
         {
+          text: "Nacos 服务发现",
+          link: "nacos",
+          icon: "search",
+        },
+        {
           text: "Gateway 流量网关",
           link: "gateway",
           icon: "guide",
+        },
+        {
+          text: "SkyWalking 链路追踪",
+          link: "skywalking",
+          icon: "state",
+        },
+        {
+          text: "RabbitMQ 消息队列",
+          link: "rabbitmq",
+          icon: "emmet",
         },
       ],
     },
